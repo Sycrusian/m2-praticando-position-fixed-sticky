@@ -1,0 +1,14 @@
+:root {
+    --color-dark-blue: #5f3dc4;
+    --color-markup-yellow: #eada79;
+    --color-grey-1: #878788;
+    --color-grey-2: #212529;
+    --color-grey-3: #0f1011;
+    --color-whatsapp-green: #2fc195;
+    --color-fixed-white: #ffffff;
+}
+
+body {
+    font-family: 'Calibri', sans-serif;
+    background-color: var(--color-fixed-white);
+}
